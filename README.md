@@ -1,1 +1,1 @@
-# RedditCrawler
+# Subreddit Crawler for DSSG
